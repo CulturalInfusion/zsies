@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:         Zoho SalesIQ Extended Setting
- * Plugin URI:          https://apos37.com/wordpress-addon-for-ms-teams-gravity-forms/
+ * Plugin URI:          https://github.com/CulturalInfusion/zsies
  * Description:         Exclude specific pages from loading Zoho SalesIQ widget.
  * Version:             1.0.0
  * Requires at least:   6.6.0
@@ -12,14 +12,7 @@
  * License:             GPLv2 or later
  * License URI:         http://www.gnu.org/licenses/gpl-2.0.txt
  */
-/*
-Plugin Name: Zoho SalesIQ Extended Setting
-Description: Exclude specific pages from loading Zoho SalesIQ widget.
-Version: 1.0
-Author: Abdolnabi Zameni
-Website: http://www.zameni.us
-Email: Abdolnabi@zameni.us
-*/
+
 
 // Exit if accessed directly
 if ( ! defined( 'ABSPATH' ) ) {

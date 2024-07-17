@@ -42,5 +42,4 @@ This plugin is licensed under the [MIT License](LICENSE).
 ## Author
 
 - **Your Name**
-- [Your Website](https://zameni.us)
-- [Your Email](mailto:abdolnabi@zameni.us)
+- [My Website](https://zameni.us)
