@@ -41,5 +41,5 @@ This plugin is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- **Your Name**
+- **Abdolnabi Zameni**
 - [My Website](https://zameni.us)
