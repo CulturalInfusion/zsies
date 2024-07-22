@@ -3,7 +3,7 @@
  * Plugin Name:         Zoho SalesIQ Extended Setting
  * Plugin URI:          https://github.com/CulturalInfusion/zsies
  * Description:         Exclude specific pages from loading Zoho SalesIQ widget.
- * Version:             1.0.1
+ * Version:             1.0.2
  * Requires at least:   6.6.0
  * Tested up to:        6.6.0
  * Author:              Abdolnabi Zameni
